@@ -1,9 +1,9 @@
 👋 Hi, I’m Qingtian Zou (邹擎天).
 
-👀 I’m interested in the application of traditional machine learning and deep learning, and problems centring them, including AI risks, explainability, roubustness, etc.
+👀 I’m interested in the application of traditional machine learning and deep learning, and problems centering them, including AI risks, explainability, roubustness, etc.
 
 Some projects I contributed to (excluding those created by me, which you can find in my repositories):
-- https://github.com/PSUCyberSecurityLab/AIforCybersecurity
+- https://github.com/PSUCyberSecurityLab/AIforCybersecurity (the whole chapter 5)
 - https://github.com/slundberg/shap
 
 Other links:
