@@ -5,6 +5,7 @@
 Some projects I contributed to (excluding those created by me, which you can find in my repositories):
 - https://github.com/PSUCyberSecurityLab/AIforCybersecurity (the whole chapter 5)
 - https://github.com/slundberg/shap
+- https://github.com/secdev/scapy
 
 Other links:
 - LinkedIn: https://www.linkedin.com/in/qingtian-zou-988023119/
