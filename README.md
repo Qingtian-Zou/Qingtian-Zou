@@ -1,6 +1,6 @@
 👋 Hi, I’m Qingtian Zou (邹擎天).
 
-👀 I am a machine learning practioner. I have been applying traditional machine learning and deep learning techniques to solve problems mainly in the security domain. I am also interested in problems centering traditional machine learning and deep learning, like AI risks, explainability, roubustness, etc.
+👀 I am a machine learning practioner. I have been applying traditional machine learning and deep learning techniques to solve problems mainly in the security domain. I am also interested in problems centering traditional machine learning and deep learning, like AI risks, explainability, roubustness, etc., also their applications in other domains like biomedical sciences.
 
 Some projects I contributed to (excluding those created by me, which you can find in my repositories):
 - https://github.com/PSUCyberSecurityLab/AIforCybersecurity (the whole chapter 5)
