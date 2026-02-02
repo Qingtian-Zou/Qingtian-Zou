@@ -7,6 +7,9 @@ Some projects I contributed to (excluding those created by me, which you can fin
 - https://github.com/slundberg/shap
 - https://github.com/secdev/scapy
 
+Highlighted project:
+- [PM-BDSP-GrandUndergroundMining](https://github.com/Qingtian-Zou/PM-BDSP-GrandUndergroundMining): A reinforcement learning environment and playable web game inspired by the mining minigame from Pokémon Brilliant Diamond & Shining Pearl's Grand Underground.
+
 Other links:
 - LinkedIn: https://www.linkedin.com/in/qingtian-zou-988023119/
 
