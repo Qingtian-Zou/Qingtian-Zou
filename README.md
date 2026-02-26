@@ -9,6 +9,7 @@ Some projects I contributed to (excluding those created by me, which you can fin
 
 Highlighted project:
 - [PM-BDSP-GrandUndergroundMining](https://github.com/Qingtian-Zou/PM-BDSP-GrandUndergroundMining): A reinforcement learning environment and playable web game inspired by the mining minigame from Pokémon Brilliant Diamond & Shining Pearl's Grand Underground.
+- [auto-llm-predictor](https://github.com/Qingtian-Zou/auto-llm-predictor): An agentic framework to automatically build a fine-tuned LLM predictor from any CSV dataset.
 
 Other links:
 - LinkedIn: https://www.linkedin.com/in/qingtian-zou-988023119/
